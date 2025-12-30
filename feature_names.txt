@@ -1,0 +1,8 @@
+age
+tenure
+avg_monthly_spend
+support_tickets
+login_frequency
+region_North
+region_South
+region_West
